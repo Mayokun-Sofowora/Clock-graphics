@@ -1,5 +1,5 @@
 # Clock-graphics
-A clock demo made in Unity, thanks to Jasper Flick (catlike coding)
+A clock demo made in Unity
 ![image](https://github.com/Mayokun-Sofowora/Clock-graphics/assets/73405462/28cb01f5-78a3-4945-9026-12fe13a87f10)
 
 
